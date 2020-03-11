@@ -1,0 +1,16 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cezariolmos/exercicio.git",
+  "author": "Cezari11 <cezari@olimpiaweb.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+      "start" : "node index.js",
+      "dev" : "nodemon index.js"
+  }
+}
